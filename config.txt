@@ -1,6 +1,6 @@
 /*
  * Thread configuration for each threa. Make sureit matches the number above.
- * low_power_mode - This mode ill double he cce usage, and double the single thread performance. It will 
+ * low_power_mode - This mode ill double he cce sage, and double the single thread performance. It will 
  */
  
 "cpu_threads_conf" :
